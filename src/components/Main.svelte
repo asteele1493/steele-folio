@@ -27,7 +27,7 @@
         <span class='poppins text-violet-400'>Engineer</span>
       </h2>
       <p class='text-base sm:text-lg md:text-xl'>
-          My <span class='text-violet-400'>favorite tehcnologies and skills</span> include Node.js, React & React Native, API development, writing documentation, Express.js, PostgreSQL and system design.
+          My <span class='text-violet-400'>favorite technologies and skills</span> include Node.js, React & React Native, API development, writing documentation, Express.js, PostgreSQL and system design.
       </p>
       <a class='blueShadow mx-auto lg:mr-auto text-base s:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-slate text-white-950 cursor-pointer'
       href='https://www.linkedin.com/in/andra-steele/'>
